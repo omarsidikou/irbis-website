@@ -1,5 +1,5 @@
 ---
-title: "Collection - Femmes"
+title: "Femmes"
 weight: 3
 header_menu: true
 ---

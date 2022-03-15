@@ -1,5 +1,5 @@
 ---
-title: "Collection - Hommes"
+title: "Hommes"
 weight: 2
 header_menu: true
 ---
