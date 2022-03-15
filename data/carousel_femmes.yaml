@@ -1,0 +1,9 @@
+images:
+  - image: /images/slider-femmes/irbis_2.jpeg
+    content_html: "1"
+  - image: /images/slider-femmes/irbis_3.jpeg
+    content_html: "2"
+  - image: /images/slider-femmes/irbis_7.jpeg
+    content_html: "3"
+  - image: /images/slider-femmes/irbis_9.jpeg
+    content_html: "4"

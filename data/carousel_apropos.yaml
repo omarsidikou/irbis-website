@@ -1,0 +1,7 @@
+images:
+  - image: /images/slider-apropos/adama.jpg
+    content_html: "1"
+  - image: /images/slider-apropos/irbis_1ter.jpg
+    content_html: "2"
+  - image: /images/slider-apropos/irbis_8.jpeg
+    content_html: "3"

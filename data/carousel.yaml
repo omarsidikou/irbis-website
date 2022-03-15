@@ -1,0 +1,7 @@
+images:
+  - image: /images/slider/image1.jpeg
+    content_html: "1"
+  - image: /images/slider/image2.jpeg
+    content_html: "2"
+  - image: /images/slider/image3.jpeg
+    content_html: "3"
